@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4922333396609991828}
   - component: {fileID: 8970007187462643797}
   - component: {fileID: 3476360899977805542}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TankProjectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}

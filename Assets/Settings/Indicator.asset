@@ -15,13 +15,13 @@ MonoBehaviour:
   <Settings>k__BackingField:
   - Mult: 1
     Text: Dull
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 642f6159ad397d144aa6527bab49df9e, type: 2}
   - Mult: 2
     Text: Cool!
     Clip: {fileID: 7400000, guid: bcc2c1636dc92bd45bcf860c1af2bce1, type: 2}
   - Mult: 3
     Text: Bravo!
-    Clip: {fileID: 7400000, guid: bcc2c1636dc92bd45bcf860c1af2bce1, type: 2}
+    Clip: {fileID: 7400000, guid: 639f7459210b57e4d95637fe5cc41ebc, type: 2}
   - Mult: 4
     Text: Awesome!
     Clip: {fileID: 7400000, guid: 01d7bb1306efb1c4dafa7e2365d47653, type: 2}
